@@ -226,7 +226,7 @@
 },
 {
 	"filename": "marsh1.png",
-	"frame": {"x":148,"y":159,"w":50,"h":29},
+	"frame": {"x":148,"y":159,"w":54,"h":30},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":28},
@@ -234,7 +234,7 @@
 },
 {
 	"filename": "marsh2.png",
-	"frame": {"x":179,"y":129,"w":50,"h":29},
+	"frame": {"x":179,"y":129,"w":54,"h":30},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":28},
