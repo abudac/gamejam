@@ -229,16 +229,16 @@
 	"frame": {"x":148,"y":159,"w":50,"h":29},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":29},
-	"sourceSize": {"w":50,"h":29}
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":28},
+	"sourceSize": {"w":50,"h":28}
 },
 {
 	"filename": "marsh2.png",
 	"frame": {"x":179,"y":129,"w":50,"h":29},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":29},
-	"sourceSize": {"w":50,"h":29}
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":28},
+	"sourceSize": {"w":50,"h":28}
 }],
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
