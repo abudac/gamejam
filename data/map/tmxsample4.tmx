@@ -124,12 +124,6 @@
   </data>
  </layer>
  <objectgroup color="#a40000" name="slimes" width="64" height="64">
-  <object name="MarshEntity" x="193" y="419" width="415" height="27">
-   <properties>
-    <property name="spriteheight" value="28"/>
-    <property name="spritewidth" value="50"/>
-   </properties>
-  </object>
   <object name="MarshEntity" x="507" y="1123" width="867" height="27">
    <properties>
     <property name="spriteheight" value="28"/>
